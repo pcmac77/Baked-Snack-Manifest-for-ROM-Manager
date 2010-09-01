@@ -9,7 +9,7 @@
     // Your list of ROMs
     roms:
     [
-	// =====Baked Snack 1.5
+    // =====Baked Snack 1.5
     {
         // Display name of the rom
         name: "Baked Snack 1.5",
