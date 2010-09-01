@@ -28,7 +28,6 @@
         // This must be a direct download,
         // and not a Mediafire type link.
         url: "http://www.bakedsnackshack.com/ROMS/BakedSnack150.zip"
-		]
     }
     ]
 }
