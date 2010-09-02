@@ -14,7 +14,7 @@
         // Display name of the rom
         name: "Baked Snack 1.6",
         // Display summary of the rom
-        summary: "Stable",
+        summary: "Please do a full wipe.",
         // Device that this rom runs on
         device: "supersonic",
         // A screenshot to show off what the ROM looks like! (This is optional)
@@ -53,7 +53,7 @@
                 ]
             },
             {
-                name: "Baked Kernel #3 (included in ROM)(HAVS/OC/UV/FPSfix/BFQ)",
+                name: "Baked Kernel #3 (HAVS/OC/UV/FPSfix/BFQ)",
                 urls:
                 [
                 {
@@ -88,7 +88,7 @@
         // Display name of the rom
         name: "Baked Snack 1.5",
         // Display summary of the rom
-        summary: "Stable",
+        summary: "Please do a full wipe.",
         // Device that this rom runs on
         device: "supersonic",
         // A screenshot to show off what the ROM looks like! (This is optional)
