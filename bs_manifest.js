@@ -46,61 +46,7 @@
         // old cached zip on the SD card.
         // This must be a direct download,
         // and not a Mediafire type link.
-        url: "http://www.bakedsnackshack.com/ROMS/BakedSnack1.6.zip",
-        choices:
-        [
-        {
-            name: "Kernels",
-            options:
-            [
-            {
-                name: "Baked Kernel #1 (HAVS/OC/UV/FPSfix)",
-                urls:
-                [
-                {
-                "http://www.bakedsnackshack.com/ROMS/BakedSnack1.4Kernel.zip"
-                }
-                ]
-            },
-            {
-                name: "Baked Kernel #2 (HAVS/OC/UV/BFS/FPSfix)",
-                urls:
-                [
-                {
-                "http://www.bakedsnackshack.com/ROMS/BakedSnack1.4BFS.zip"
-                }
-                ]
-            },
-            {
-                name: "Baked Kernel #3 (HAVS/OC/UV/FPSfix/BFQ)",
-                urls:
-                [
-                {
-                "http://www.bakedsnackshack.com/ROMS/BakedRepublican.zip"
-                }
-                ]
-            },
-            {
-                name: "Baked Kernel #4 (HAVS/OC/UV/FPSfix/BFQ)",
-                urls:
-                [
-                {
-                "http://www.bakedsnackshack.com/ROMS/BakedSpeed.zip"
-                }
-                ]
-            },
-            {
-                name: "Baked Kernel #5 (HAVS/OC/UV/FPSfix/BFQ)",
-                urls:
-                [
-                {
-                "http://www.bakedsnackshack.com/ROMS/BakedBattery.zip"
-                }
-                ]
-            }
-            ]
-        }
-        ]
+        url: "http://www.bakedsnackshack.com/ROMS/BakedSnack1.6.zip"
     },
     // =====Baked Snack 1.5
     {
@@ -120,61 +66,7 @@
         // old cached zip on the SD card.
         // This must be a direct download,
         // and not a Mediafire type link.
-        url: "http://www.bakedsnackshack.com/ROMS/BakedSnack150.zip",
-        choices:
-        [
-        {
-            name: "Kernels",
-            options:
-            [
-            {
-                name: "Baked Kernel #1 (HAVS/OC/UV/FPSfix)",
-                urls:
-                [
-                {
-                "http://www.bakedsnackshack.com/ROMS/BakedSnack1.4Kernel.zip"
-                }
-                ]
-            },
-            {
-                name: "Baked Kernel #2 (HAVS/OC/UV/BFS/FPSfix)",
-                urls:
-                [
-                {
-                "http://www.bakedsnackshack.com/ROMS/BakedSnack1.4BFS.zip"
-                }
-                ]
-            },
-            {
-                name: "Baked Kernel #3 (included in ROM)(HAVS/OC/UV/FPSfix/BFQ)",
-                urls:
-                [
-                {
-                "http://www.bakedsnackshack.com/ROMS/BakedRepublican.zip"
-                }
-                ]
-            },
-            {
-                name: "Baked Kernel #4 (HAVS/OC/UV/FPSfix/BFQ)",
-                urls:
-                [
-                {
-                "http://www.bakedsnackshack.com/ROMS/BakedSpeed.zip"
-                }
-                ]
-            },
-            {
-                name: "Baked Kernel #5 (HAVS/OC/UV/FPSfix/BFQ)",
-                urls:
-                [
-                {
-                "http://www.bakedsnackshack.com/ROMS/BakedBattery.zip"
-                }
-                ]
-            }
-            ]
-        }
-        ]
+        url: "http://www.bakedsnackshack.com/ROMS/BakedSnack150.zip"
     }
     ]
 }
