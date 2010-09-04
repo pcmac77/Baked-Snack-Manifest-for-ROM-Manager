@@ -5,7 +5,6 @@
     homepage: "http://www.bakedsnackshack.com/",
     // The donate link for yuor ROM, if you have one.
     donate: "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3J28MNKNUWVP2",
-    
     // Your list of ROMs
     roms:
     [
