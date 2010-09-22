@@ -34,7 +34,7 @@
         //    name: "Missing Apps like HTC FM Radio, Stock, WifiRouter, News Reader, etc.  Not affiliated with Hero_Over.  Do a nandroid backup before proceeding to be safe.",
         //    url: "http://github.com/pcmac77/Baked-Snack-Manifest-for-ROM-Manager/blob/master/addons/PutAppsBack.zip"
         //]
-        }
+        //}
     },
     // =====Baked Snack 1.6
     {
