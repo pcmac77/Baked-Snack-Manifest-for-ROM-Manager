@@ -16,6 +16,7 @@
         summary: "Please do a full wipe.",
         // Device that this rom runs on
         device: "supersonic",
+        product: "BakedSnack",
         // A screenshot to show off what the ROM looks like! (This is optional)
         //screenshot: "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot2.png",
         // This is the download URL of your ROM.
@@ -31,7 +32,10 @@
         {
         [
             name: "Missing Apps like HTC FM Radio, Stock, WifiRouter, News Reader, etc.  Not affiliated with Hero_Over.  Do a nandroid backup before proceeding to be safe.",
-            url: "http://github.com/pcmac77/Baked-Snack-Manifest-for-ROM-Manager/blob/master/addons/PutAppsBack.zip"
+            urls:
+            [   
+                "http://github.com/pcmac77/Baked-Snack-Manifest-for-ROM-Manager/blob/master/addons/PutAppsBack.zip"
+            ]
         ]
         }
     },
