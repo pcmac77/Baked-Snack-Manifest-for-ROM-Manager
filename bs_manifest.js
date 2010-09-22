@@ -27,13 +27,13 @@
         // old cached zip on the SD card.
         // This must be a direct download,
         // and not a Mediafire type link.
-        url: "http://www.bakedsnackshack.com/42378568476357387574encrypt3248723hgf8gfd89/BakedSnack1.7.zip",
-        addons:
-        {
-        [
-            name: "Missing Apps like HTC FM Radio, Stock, WifiRouter, News Reader, etc.  Not affiliated with Hero_Over.  Do a nandroid backup before proceeding to be safe.",
-            url: "http://github.com/pcmac77/Baked-Snack-Manifest-for-ROM-Manager/blob/master/addons/PutAppsBack.zip"
-        ]
+        url: "http://www.bakedsnackshack.com/42378568476357387574encrypt3248723hgf8gfd89/BakedSnack1.7.zip"
+        //addons:
+        //{
+        //[
+        //    name: "Missing Apps like HTC FM Radio, Stock, WifiRouter, News Reader, etc.  Not affiliated with Hero_Over.  Do a nandroid backup before proceeding to be safe.",
+        //    url: "http://github.com/pcmac77/Baked-Snack-Manifest-for-ROM-Manager/blob/master/addons/PutAppsBack.zip"
+        //]
         }
     },
     // =====Baked Snack 1.6
