@@ -8,6 +8,16 @@
     // Your list of ROMs
     roms:
     [
+    // =====Baked Snack 1.75
+    {
+        // Display name of the rom
+        name: "Baked Snack 1.75",
+        // Display summary of the rom
+        summary: "Flash Update, 1.7 Required",
+        // Device that this rom runs on
+        device: "supersonic",
+        url: "http://www.bakedsnackshack.com/ROMS/EVO/1.75.zip"
+    },
     // =====Baked Snack 1.7
     {
         // Display name of the rom
