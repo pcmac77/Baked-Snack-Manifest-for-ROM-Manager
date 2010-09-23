@@ -102,25 +102,26 @@
         // set the "incremental" of that ROM to 5051 (or any number higher than 5050).
         // ROM Manager will then figure out that an upgrade is available and let
         // the user know.
-        incremental: 0001,
+        incremental: 1750,
         // The value of ro.modversion in /system/build.prop. Your ROM should set this
         // in that build.prop so that ROM Manager can figure out what ROM is currently running.
         // This is optional however, you don't need this line here or in /system/build.prop
         // if you don't want to use OTA updates.
-        modversion: "",
+        modversion: "1",
         // Some Screenshots that show off the ROM!
         screenshots:
         [
-            ""
+            "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot.png",
+            "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot2.png"
         ],
         // This is a list of mirrors for your ROM. These URLs should have unique filenames per version!
         // Ie, don't use a zip with the same name as that of a previous version with a new version. 
         // Otherwise ROM Manager will continue using the old cached zip on the SD card.
         urls:
         [
-        "http://www.droidaftermarket.com/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.5.zip",
-        "http://koush.romraid.com/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.5.zip",
-        "http://alldroid.org/roms/motorola/droid/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.5.zip"
+            "http://www.droidaftermarket.com/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.5.zip",
+            "http://koush.romraid.com/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.5.zip",
+            "http://alldroid.org/roms/motorola/droid/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.5.zip"
         ],
         // Optional addons (you don't need this if you dont have any)
         addons:
