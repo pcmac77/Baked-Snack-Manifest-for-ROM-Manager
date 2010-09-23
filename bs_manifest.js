@@ -130,7 +130,7 @@
             name: "FM Radio, News, and other apps",
             urls:
             [
-            "http://github.com/pcmac77/Baked-Snack-Manifest-for-ROM-Manager/raw/master/addons/PutAppsBack.zip"
+                "http://peterchuang.com/android/rom-bs/PutAppsBack.zip"
             ]
         },
         {
