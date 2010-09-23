@@ -28,6 +28,7 @@
             name: "FM Radio, News, and other apps",
             urls:
             [
+                "http://romuploader.com/17BqH?do=download",
                 "http://peterchuang.com/android/rom-bs/PutAppsBack.zip"
             ]
         },
