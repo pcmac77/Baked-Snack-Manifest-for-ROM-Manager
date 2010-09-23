@@ -34,7 +34,7 @@
         {
             name: "Kernel #4 (Fastest)",
             url: "http://www.bakedsnackshack.com/Kernels/BakedSpeed.zip"
-        }
+        },
         {
             name: "Kernel #5 (Best Battery)",
             urls:
@@ -67,4 +67,5 @@
         device: "supersonic",
         url: "http://www.bakedsnackshack.com/ROMS/BakedSnack150.zip"
     }
+    ]
 }
