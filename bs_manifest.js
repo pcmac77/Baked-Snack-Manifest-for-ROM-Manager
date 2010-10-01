@@ -4,6 +4,47 @@
     donate: "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3J28MNKNUWVP2",
     roms:
     [
+    // =====Baked Snack 1.8 EVO
+    {
+        name: "Baked Snack 1.8",
+        summary: "Addons and optional kernels available.",
+        device: "supersonic",
+        product: "BakedSnack",
+        incremental: 1800,
+        modversion: "1",
+        screenshots:
+        [
+            "http://img525.imageshack.us/img525/3415/homeao.png",
+            "http://img180.imageshack.us/img180/1316/7home.png",
+            "http://img683.imageshack.us/img683/4823/apps1f.png"
+        ],
+        urls:
+        [
+            "http://www.bakedsnackshack.com/ROMS/EVO/BakedSnack1.8.evo.zip"
+        ],
+        addons:
+        [
+        {
+            name: "FM Radio, News, and other apps",
+            urls:
+            [
+                "http://romuploader.com/17BqH?do=download",
+                "http://peterchuang.com/android/rom-bs/PutAppsBack.zip"
+            ]
+        },
+        {
+            name: "Kernel #4 (Fastest)",
+            url: "http://www.bakedsnackshack.com/Kernels/BakedSpeed.zip"
+        },
+        {
+            name: "Kernel #5 (Best Battery)",
+            urls:
+            [
+                "http://www.bakedsnackshack.com/Kernels/BakedBattery.zip",
+            ]
+        }
+        ]
+    },
     // =====Baked Snack 1.75
     {
         name: "Baked Snack 1.75",
