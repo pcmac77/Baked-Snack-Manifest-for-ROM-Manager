@@ -22,9 +22,7 @@
         [
             "http://www.bakedsnackshack.com/ROMS/EVO/BakedSnack1.9.evo.zip"
         ]
-    }
-    ],
-    [
+    },
     // =====Baked Snack 1.8 EVO
     {
         name: "Baked Snack 1.8",
