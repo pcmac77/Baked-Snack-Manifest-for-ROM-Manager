@@ -23,4 +23,5 @@
             "http://www.bakedsnackshack.com/ROMS/EVO/BakedSnack1.8.evo.zip"
         ]
     }
+    ]
 }
